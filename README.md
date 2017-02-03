@@ -1,7 +1,7 @@
 # kmeans-dbscan-tutorial
 This tutorial is mainly about clustering algorithms: **K-means** and **DBSCAN** (Density Based Spatial Clustering Algorithm with Noise) with **sckit-learn**.
 
-## Content
+## Contents
 - Introduction on k-means, k-means++ and DBSCAN.
 - Analyze several drawbacks of k-means and introduce different kind of techniques to address them.
 - Introduce how we use supervised and unsupervised methods on measuring cluster quality such as homogeneity, completeness and *Silhouette Coefficient*.
