@@ -10,7 +10,7 @@ A clustering tutorial with **scikit-learn** for beginners.
   - Cannot handle Non-spherical Data.
 And of course, present solutions for the above drawbacks.
 
-3. Introduction to supervised and unsupervised methods for measuring cluster quality such as homogeneity, completeness and Silhouette Coefficient (part of section 2).
+3. Introduction to supervised and unsupervised methods for measuring cluster quality such as homogeneity, completeness and the Silhouette Coefficient (part of section 2).
 
 4. Two simple exercises (k-means & DBSCAN) along with the tutorial.
 
