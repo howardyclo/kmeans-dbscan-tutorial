@@ -3,7 +3,7 @@ This tutorial is mainly about clustering algorithms: **K-means** and **DBSCAN** 
 
 ## Contents
 - Introduction to k-means, k-means++ and DBSCAN.
-- Analyze several drawbacks of k-means and introduce different kind of techniques to address them.
+- Analyze several drawbacks of k-means and introduce different kinds of techniques to address them.
 - Introduction to supervised and unsupervised methods for measuring cluster quality such as homogeneity, completeness and *Silhouette Coefficient*.
 
 ## Get Started
