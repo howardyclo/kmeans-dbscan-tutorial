@@ -2,7 +2,7 @@
 A Clustering tutorial with **scikit-learn** for beginners.
 
 ## Contents
-1. Introduction to k-means, k-means++ and DBSCAN (Density-Based Spatial Clustering Algorithm with Noise).
+1. Introduction to **k-means**, **k-means++** and **DBSCAN (Density-Based Spatial Clustering Algorithm with Noise)**.
 
 2. Explore common drawbacks of k-means, such as:
   - Need to choose the right number of clusters.
