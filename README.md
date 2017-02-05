@@ -1,5 +1,5 @@
 # kmeans-dbscan-tutorial
-A Clustering tutorial with **scikit-learn** for beginners.
+A clustering tutorial with **scikit-learn** for beginners.
 
 ## Contents
 1. Introduction to **k-means**, **k-means++** and **DBSCAN (Density-Based Spatial Clustering Algorithm with Noise)**.
